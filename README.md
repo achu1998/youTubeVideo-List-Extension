@@ -2,7 +2,7 @@
 
 <img src="assets/ext-icon.png" alt="Extension icon" width="72" />
 
-# YouTube Bookmarked List
+# YouTube Bookmarked List Extension
 
 **A Chrome extension that saves YouTube videos to a bookmark list with one click from the player**
 
@@ -14,7 +14,7 @@
 
 ## About
 
-YouTube Bookmarked List adds a bookmark button to the YouTube video player. Click it while watching and the video is saved to your personal list. Open the extension's popup to see every saved video, jump back to one with **Play**, remove it with **Delete**, or clear the whole list with **Reset**.
+YouTube Bookmarked List Extension adds a bookmark button to the YouTube video player. Click it while watching and the video is saved to your personal list. Open the extension's popup to see every saved video, jump back to one with **Play**, remove it with **Delete**, or clear the whole list with **Reset**.
 
 Bookmarks are stored with `chrome.storage.sync`, so when you're signed in to Chrome your list follows you to your other computers. Nothing is sent to any server.
 
